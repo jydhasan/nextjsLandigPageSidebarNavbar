@@ -1,3 +1,17 @@
+
+# Install pagecage 
+```bash
+npm install lucide-react clsx
+```
+## Image look like this 
+
+<img width="960" alt="msedge_Y8y6YNciKZ" src="https://github.com/user-attachments/assets/d5e571b8-801b-42f0-8590-0a6605154750" />
+
+## In Mobile view
+
+<img width="960" alt="msedge_HbUL5dETYK" src="https://github.com/user-attachments/assets/baa86e50-7756-4f1d-be10-4498eb571b4e" />
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
